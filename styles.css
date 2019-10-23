@@ -1,0 +1,56 @@
+body {
+  font-family: "Merriweather", serif;
+  max-width: 68ch;
+  padding: 2ch;
+  margin: auto;
+}
+
+p,
+li {
+  line-height: 1.5;
+}
+
+sup {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+
+.florette {
+  color: #a61212;
+}
+
+.footnote {
+  font-size: smaller;
+}
+
+.footnote-arrow {
+  margin-left: 0.3em;
+}
+
+.footnote-number {
+  margin-right: 0.3em;
+}
+
+.footnote-star {
+  margin-right: 0.2em;
+}
+
+#body-text sup {
+  font-family: "Noto Serif", "Merriweather", serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #404040;
+    color: #e4e4e4;
+  }
+
+  a {
+    color: #e4926e;
+  }
+
+  .florette {
+    color: #e44040;
+  }
+}
