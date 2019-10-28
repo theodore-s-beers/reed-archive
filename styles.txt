@@ -1,0 +1,64 @@
+<link
+  href="https://fonts.googleapis.com/css?family=Merriweather:400,400i&display=swap"
+  rel="stylesheet"
+/>
+<link
+  href="https://fonts.googleapis.com/css?family=Noto+Serif&text=0123456789&display=swap"
+  rel="stylesheet"
+/>
+<style>
+  .author {
+    display: none;
+  }
+  #notes {
+    margin-top: 2rem;
+  }
+  .footnote-back {
+    margin-left: 0.3em;
+  }
+  .footnotes {
+    font-size: smaller;
+  }
+  .footnotes a {
+    overflow-wrap: break-word;
+  }
+  .footnotes hr {
+    display: none;
+  }
+  .footnotes li {
+    padding-left: 0.2em;
+  }
+  body {
+    font-family: Merriweather, serif;
+    max-width: 68ch;
+    padding: 2ch;
+    margin: auto;
+  }
+  li,
+  p {
+    line-height: 1.5;
+  }
+  sup {
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
+  }
+  .florette {
+    color: #a61212;
+  }
+  #body-text sup {
+    font-family: "Noto Serif", Merriweather, serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #404040;
+      color: #e4e4e4;
+    }
+    a {
+      color: #e4926e;
+    }
+    .florette {
+      color: #e44040;
+    }
+  }
+</style>
