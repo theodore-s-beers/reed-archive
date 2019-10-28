@@ -1,0 +1,18 @@
+After making changes…
+
+1) Pandoc all index.md files, except the one in the top directory, to index.html. We disable Markdown auto identifiers, add the meta description and CSS to the head, and add the header and footer.
+
+find . -name "index.md" ! -path "./index.md" -execdir pandoc index.md -o index.html -f markdown-auto_identifiers -H desc.txt -H ../styles.txt -B ../header.txt -A ../footer.txt \;
+
+2) Pandoc index.md in the top directory to index.html. The difference here is that we omit the header and footer, and the paths change for the description and CSS.
+
+pandoc index.md -o index.html -f markdown-auto_identifiers -H desc.txt -H styles.txt
+
+3) In the generated HTML files, add target="_blank" and rel="noopener" to all links to external sites. (This is done as a single operation in VS Code.)
+
+Find: a href="http
+Replace: a target="_blank" rel="noopener" href="http
+
+Caveats:
+- Don't run the generated HTML through Prettier. Pandoc converts HTML entities for special spaces, e.g. &thinsp;, into the respective UTF-8 characters, and then Prettier will change those into regular spaces. (WTF?)
+- Double-check the formatting of footnote 41 in "Black Particularity Reconsidered." Pandoc has a particular Markdown format for multi-paragraph footnotes, and it isn't recognized by other auto-formatters.
