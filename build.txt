@@ -10,7 +10,7 @@ pandoc index.md -o index.html -f markdown-auto_identifiers -H desc.txt -H styles
 
 3) In the generated HTML files, add target="_blank" and rel="noopener" to all links to external sites. (This is done as a single operation in VS Code.)
 
-Find: a href="http
+Find: a_href="http (with a space instead of the underscore)
 Replace: a target="_blank" rel="noopener" href="http
 
 Caveats:
