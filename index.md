@@ -10,7 +10,7 @@ The goal here is to collect his writing in a single place, in a way that facilit
 
 If publications ask me to take things down, I will. Likewise, obviously, if Dr. Reed would rather this site not exist.
 
-The list below is in descending chronological order. More items will be added over time. I've started with a broad assortment, and marked some of the most important pieces with a red florette. _Last updated 7 Oct. 2019._
+The list below is in descending chronological order. More items will be added over time. I've started with a broad assortment, and marked some of the most important pieces with a red (or, in dark mode, pink) florette. The source files can be accessed [on GitHub](https://github.com/theodore-s-beers/reed-archive/). _Last updated 29 Oct. 2019._
 
 ---
 
