@@ -24,6 +24,5 @@ find . -name "*.html" -exec html-minifier {} -o {} --collapse-whitespace --minif
 find . -name "*.html" -exec prettier {} --write \;
 
 
-
 Caveat:
-- Double-check the formatting of footnote 41 in "Black Particularity Reconsidered." Pandoc has a particular Markdown format for multi-paragraph footnotes, and it seems not to be recognized by auto-formatters.
+- Double-check the formatting of footnote 41 in "Black Particularity Reconsidered." Pandoc has a certain Markdown syntax for multi-paragraph footnotes, and it seems not to be recognized by auto-formatters.
