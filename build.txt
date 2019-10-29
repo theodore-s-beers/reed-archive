@@ -13,6 +13,17 @@ pandoc index.md -o index.html -f markdown-auto_identifiers -H desc.txt -H styles
 Find: a_href="http (with a space instead of the underscore)
 Replace: a target="_blank" rel="noopener" href="http
 
-Caveats:
-- Don't run the generated HTML through Prettier. Pandoc converts HTML entities for special spaces, e.g. &thinsp;, into the respective UTF-8 characters, and then Prettier will change those into regular spaces. (WTF?)
-- Double-check the formatting of footnote 41 in "Black Particularity Reconsidered." Pandoc has a particular Markdown format for multi-paragraph footnotes, and it isn't recognized by other auto-formatters.
+4) Encode special characters as HTML entities in the generated files.
+
+for i in `find . -name "index.html"`; do he --encode --allow-unsafe < $i > $i.out; done
+find . -name "index.html.out" -execdir mv index.html.out index.html \;
+
+5) For good measure, minify all HTML, then run it through Prettier.
+
+find . -name "*.html" -exec html-minifier {} -o {} --collapse-whitespace --minify-css true \;
+find . -name "*.html" -exec prettier {} --write \;
+
+
+
+Caveat:
+- Double-check the formatting of footnote 41 in "Black Particularity Reconsidered." Pandoc has a particular Markdown format for multi-paragraph footnotes, and it seems not to be recognized by auto-formatters.
