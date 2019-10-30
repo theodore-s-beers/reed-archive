@@ -12,7 +12,7 @@
     max-width: 68ch;
     padding: 2ch;
     margin: auto;
-    color: #333;
+    color: #282828;
   }
   li,
   p {
