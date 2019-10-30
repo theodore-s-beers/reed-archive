@@ -8,21 +8,28 @@ find . -name "index.md" ! -path "./index.md" -execdir pandoc index.md -o index.h
 
 pandoc index.md -o index.html -f markdown-auto_identifiers -H desc.txt -H styles.txt
 
-3) In the generated HTML files, add target="_blank" and rel="noopener" to all links to external sites. (This is done as a single operation in VS Code.)
+3) In the generated HTML files, add target="_blank" and rel="noopener" to all links to external sites.
 
-Find: a_href="http (with a space instead of the underscore)
-Replace: a target="_blank" rel="noopener" href="http
+find . -name "index.html" -exec sed -i '' 's/a href="http/a target="_blank" rel="noopener" href="http/g' {} \;
 
-4) Encode special characters as HTML entities in the generated files.
+4) Minify all HTML. (For some reason, this prevents errors in the subsequent encoding step.)
+
+find . -name "*.html" -exec html-minifier {} -o {} --collapse-whitespace --minify-css true \;
+
+5) Encode special characters as HTML entities in the generated files.
 
 for i in `find . -name "index.html"`; do he --encode --allow-unsafe < $i > $i.out; done
 find . -name "index.html.out" -execdir mv index.html.out index.html \;
 
-5) For good measure, minify all HTML, then run it through Prettier.
+6) For good measure, minify all HTML again, then run it through Prettier.
 
 find . -name "*.html" -exec html-minifier {} -o {} --collapse-whitespace --minify-css true \;
 find . -name "*.html" -exec prettier {} --write \;
 
+As a sequence of commands:
 
-Caveat:
-- Double-check the formatting of footnote 41 in "Black Particularity Reconsidered." Pandoc has a certain Markdown syntax for multi-paragraph footnotes, and it seems not to be recognized by auto-formatters.
+find . -name "index.md" ! -path "./index.md" -execdir pandoc index.md -o index.html -f markdown-auto_identifiers -H desc.txt -H ../styles.txt -B ../header.txt -A ../footer.txt \; && pandoc index.md -o index.html -f markdown-auto_identifiers -H desc.txt -H styles.txt && find . -name "index.html" -exec sed -i '' 's/a href="http/a target="_blank" rel="noopener" href="http/g' {} \; && find . -name "*.html" -exec html-minifier {} -o {} --collapse-whitespace --minify-css true \; && for i in `find . -name "index.html"`; do he --encode --allow-unsafe < $i > $i.out; done && find . -name "index.html.out" -execdir mv index.html.out index.html \; && find . -name "*.html" -exec html-minifier {} -o {} --collapse-whitespace --minify-css true \; && find . -name "*.html" -exec prettier {} --write \;
+
+
+Caveat(s):
+- Double-check the formatting of footnote 41 in "Black Particularity Reconsidered." Pandoc has a certain Markdown syntax for multi-paragraph footnotes, which seems not to be recognized by auto-formatters.
