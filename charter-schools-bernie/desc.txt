@@ -1,1 +1,4 @@
-<meta name="description" content="Arguing that charter schools offer unique opportunities for poor African-American children isn’t borne out by the facts." />
+<meta
+  name="description"
+  content="Arguing that charter schools offer unique opportunities for poor African-American children isn’t borne out by the facts."
+/>

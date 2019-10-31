@@ -1,1 +1,4 @@
-<meta name="description" content="Neither Malcolm X, Frantz Fanon, C. L. R. James, nor Stuart Hall can tell us anything strategically useful about the black American political situation." />
+<meta
+  name="description"
+  content="Neither Malcolm X, Frantz Fanon, C. L. R. James, nor Stuart Hall can tell us anything strategically useful about the black American political situation."
+/>

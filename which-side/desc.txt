@@ -1,1 +1,4 @@
-<meta name="description" content="The DSA is openly debating internal tensions regarding identity and class, but there are important lessons the broader left needs to learn. If Trump is to be defeated, the learning needs to come fast." />
+<meta
+  name="description"
+  content="The DSA is openly debating internal tensions regarding identity and class, but there are important lessons the broader left needs to learn. If Trump is to be defeated, the learning needs to come fast."
+/>

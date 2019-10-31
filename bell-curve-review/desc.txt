@@ -1,1 +1,4 @@
-<meta name="description" content="Despite their concern to insulate themselves from the appearance of racism, Herrnstein and Murray display a perspective worthy of an Alabama filling station." />
+<meta
+  name="description"
+  content="Despite their concern to insulate themselves from the appearance of racism, Herrnstein and Murray display a perspective worthy of an Alabama filling station."
+/>

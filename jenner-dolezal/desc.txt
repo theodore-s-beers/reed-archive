@@ -1,1 +1,4 @@
-<meta name="description" content="There is no coherent, principled defense of the stance that transgender identity is legitimate but transracial is not." />
+<meta
+  name="description"
+  content="There is no coherent, principled defense of the stance that transgender identity is legitimate but transracial is not."
+/>

@@ -1,0 +1,65 @@
+---
+title: The Case against Reparations
+author: Adolph L. Reed, Jr.
+lang: en
+---
+
+### Adolph L. Reed, Jr.
+
+#### 11 Feb. 2016&ensp;·&ensp;[_nonsite_](https://nonsite.org/editorial/the-case-against-reparations)
+
+::: {#body-text .section}
+
+_This article was originally published in the_ Progressive _(December 2000)._
+
+The notion that white America, however defined, owes reparations to black Americans for slavery and its legacy has been around for some time. Until recently, its most dramatic eruption into public life was in 1969, when James Forman, the former chairman of the Student Nonviolent Coordinating Committee (SNCC), led a protest at New York's liberal Riverside Church and presented a "Black Manifesto" that demanded, among other things, \$500 million in reparations to black Americans from white churches and synagogues. The idea lingered on the periphery of the public agenda for a few years. In 1972, Jesse Jackson's Operation PUSH and the National Economics Association, a black economists' group, attempted to reintroduce it around the presidential election in conjunction with a demand for a \$900 million "freedom budget."
+
+For the next two decades, the idea of organizing to demand reparations circulated mainly within politically marginal, nationalist circles. It did not gain much traction even among black activists.
+
+During the last half-dozen years or so, however, the issue has been threatening to come in from the margins. Partly stimulated by the successful pursuit of compensation for Japanese Americans who were interned by the US government during World War II and for victims of Nazi slave labor, talk of a movement to demand reparations for black Americans has been spreading.
+
+I've watched this with curiosity and bemusement. I imagined that the reparations talk would evaporate because it seemed so clearly a political dead end. No such luck.
+
+Publication of _The Debt: What America Owes to Blacks_ (E.&nbsp;P. Dutton, 2000) by Randall Robinson, the respected president of TransAfrica, the organization that played a central role in the US movement against apartheid in South Africa, seems to have propelled the reparations issue into the spotlight. Now it seems to be everywhere---in special features on network television, in mainstream publications like _Harper's_ and the _New York Times_, and all over the black-oriented media.
+
+How has this happened? And what is its significance? To put it more provocatively, how does a project that seems so obviously a nonstarter in American politics come to capture so much of the public imagination? After all, support for affirmative action has eroded significantly, and reparations raises the ante on compensatory policy exponentially. Why has this idea attained currency now?
+
+Answering these questions requires understanding that the call for reparations blends material, symbolic, and psychological components.
+
+The material component is the most obvious, since the call for reparations responds to the actual harm inflicted on blacks during and after slavery. This component includes direct legacies, such as the federal government's failure to fulfill the promise of Emancipation by adopting the Radical Republican proposals during Reconstruction that would have expropriated the plantations in the South and divided them among the freed people, thus establishing a black yeomanry of independent stakeholders. It also includes the federal government's further capitulation to the former slaveholders by accepting their disenfranchisement of black voters later in the nineteenth and early twentieth centuries. As a result, black citizens were removed from effective participation in public life. What followed was the imposition of the white supremacist regime of official political and economic apartheid that reigned in the South for the first two-thirds of the twentieth century.
+
+The indirect material legacy of slavery includes such explicitly discriminatory practices as the Federal Housing Administration's enforcement of racially exclusionary "restrictive covenants" in its lending policies officially until 1948 and unofficially for some years thereafter. This practice severely disadvantaged black people's pursuit of home ownership, the principal form of capital accumulation for most Americans.
+
+The effects of unequal education, labor market discrimination, and publicly initiated and supported ghettoization are further indirect material legacies of slavery. We could also include the effects of New Deal compromises with Southern Democrats---largely racially inspired---that excluded most black workers from initial coverage under Social Security and agricultural assistance.
+
+That blacks have been systematically disadvantaged as a result of slavery and its aftermath there can be no doubt. That is the strength of the material case for reparations.
+
+The symbolic component of the reparations campaign seems to center on public acknowledgment of the injustices inflicted on black people historically in this country. On the one hand, this could promote public education about the real history of the United States, although that is a project that does not require the rhetoric of reparations. On the other hand, it fits the Clintonoid tenor of sappy public apologies and maudlin psychobabble about collective pain and healing.
+
+Robinson, for his part, seems fixated on pursuing racial parity in monuments and statuary---perhaps a function of his long years in Washington, DC, and his growing up in Richmond, Virginia, two cities in which the politics of public monuments loom larger than elsewhere. (And how much would you like to bet that that's as far as the restitution would go? Elites will always prefer symbolic gestures to material ones: "Let's see, should we give them college tuition and affordable housing or a heartfelt apology and a few monuments and plaques? Hmmm, which will it be, which will it be?")
+
+The psychological component, though, is most revealing of the dubious politics that undergirds this movement. The demand for reparations is held to be important as a means of raising consciousness among black people, whether or not it can be won. But consciousness of what? Among more populist or radical adherents, this view rests on the premise---a vestige of the nationalist/anti-imperialist radicalism that evolved from Black Power---that mobilizing black people to fight for a better world requires first rectifying their understanding of who they are and where they come from in order to build on the principle of racial solidarity. Of course, cultivation of a general understanding of history is useful, perhaps necessary, for developing and sustaining an insurgent politics, and it's a good thing in its own right. However, it's more than questionable that people must---or even will---mobilize around earlier generations' grievances to pursue current objectives.
+
+The deeper appeal of reparations talk for its proponents is to create or stress a sense of racial peoplehood as the primary basis for political identity. This movement's psychological project is grounded on two beliefs: first, that rank-and-file black people suffer from an improper or defective sense of identity, and second, that an important task of political action is to restore or correct racial consciousness that the legacy of slavery is supposed to have distorted or destroyed.
+
+Among some strains of cultural nationalists, this view unabashedly reproduces the old "damage thesis," which was criticized by historian Daryl Michael Scott in his book _Contempt and Pity: Social Policy and the Image of the Damaged Black Psyche, 1880--1996_ (University of North Carolina, 1997). According to this thesis, slavery and its aftermath left black Americans without cultural moorings and therefore especially vulnerable to various social pathologies. This notion has been the foundation of academic and journalistic slanders of black poor and working people. It was famously perpetrated by Daniel Patrick Moynihan in his scurrilous 1965 report, "The Negro Family: A Case for National Action," and it underlies contemporary notions of a self-destructive black urban underclass.
+
+Randall Robinson's argument for pursuit of reparations hinges on this view of the black American population---lucky _petit bourgeois_ people like himself excepted, of course---as defective and in need of moral and psychological repair. The idea resonates with middle-class _noblesse oblige_ and a commitment to a racial politics that ensconces a particular guiding role for upper class blacks. Those are, after all, the people who can conduct the finely calibrated analyses that determine what forms and magnitude just compensation should take; they are the people who would stand to administer whatever compromise palliatives are likely to ensue from this activity.
+
+But the question of compensation opens a plethora of technical problems. Should payments go to individuals or to some presumably representative corporate entity? If the former, who qualifies as a recipient? Would descendants of people who had been enslaved elsewhere (for instance, Brazil or the Caribbean) be eligible? And what of those no longer legally black people with slave ancestors?
+
+As a friend of mine has suggested, these issues could produce a lively trade for genealogists, DNA testers, and other such quacks, and already some seem to be rising to the opportunity. These ambiguities, moreover, expose the faultiness of comparisons to payments to victims of Japanese internment and Nazi slave labor camps, who were identifiable individuals whose experience of the ultimate injustice was direct.
+
+If the recipient is to be some corporate entity, as Robinson and others suggest, how can its representativeness and accountability be determined? If the body is a development fund, who would control it and how would the decision be made? Robinson has suggested that philanthropic agencies be the grantees, but which ones and to whom would they be accountable? This talk---as is standard in contemporary black politics---presumes a coherent, knowable black agenda that can be determined outside of democratic, participatory processes among those in whose names decisions are to be made and resources allocated.
+
+What strikes me as most incomprehensible about the reparations movement is its complete disregard for the simplest, most mundanely pragmatic question about any political mobilization: How can we imagine building a political force that would enable us to prevail on this issue?
+
+But the question ultimately does not arise because reparations talk is rooted in a different kind of politics, a politics of elite-brokerage and entreaty to the ruling class and its official conscience, the philanthropic foundations, for racial side-payments. "Until America's white ruling class accepts the fact that the book never closes on massive unredressed social wrongs, America can have no future as one people," Robinson writes. Lest there be any doubt about the limited social vision that makes such an entreaty plausible, he brushes away the deepest foundations of American inequality: "Lamentably, there will always be poverty." His beef is that black Americans are statistically overrepresented at the bottom. This is a protest politics that depends on the good will of those who hold power. By definition, it is not equipped to challenge existing relations of power and distribution other than marginally, with token gestures.
+
+There's a more insidious dynamic at work in this politics as well, which helps us understand why the reparations idea suddenly has spread so widely through mainstream political discourse. We are in one of those rare moments in American history---like the 1880s and 1890s and the Great Depression---when common circumstances of economic and social insecurity have strengthened the potential for building broad solidarity across race, gender, and other identities around shared concerns of daily life. These are concerns that only the minority of comfortable and well-off can dismiss in favor of monuments and apologies and a politics of psychobabble---concerns like access to quality health care, the right to a decent and dignified livelihood, affordable housing, quality education for all. They can be pursued effectively only by struggling to unite a wide section of the American population that is denied those essential social benefits or lives in fear of losing them. Isn't it interesting that at such a moment the corporate-dominated, opinion-shaping media discover and project a demand for racially defined reparations that cuts precisely against building such solidarity?
+
+I know that many activists who have taken up the cause of reparations otherwise hold a politics quite at odds with the limitations that I've described here. To some extent, I suspect their involvement stems from an old reflex of attempting to locate a progressive kernel in the nationalist sensibility. It certainly is an expression of a generally admirable commitment to go where people seem to be moving.
+
+But we must ask: Where can this motion go?
+
+:::

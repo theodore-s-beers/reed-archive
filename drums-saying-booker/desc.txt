@@ -1,1 +1,4 @@
-<meta name="description" content="Black public intellectuals cohere around a deceptively conservative politics that is particularly dangerous at this moment in our history." />
+<meta
+  name="description"
+  content="Black public intellectuals cohere around a deceptively conservative politics that is particularly dangerous at this moment in our history."
+/>

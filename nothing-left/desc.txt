@@ -1,1 +1,4 @@
-<meta name="description" content="The long, slow surrender of American liberals" />
+<meta
+  name="description"
+  content="The long, slow surrender of American liberals"
+/>

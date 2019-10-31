@@ -1,1 +1,4 @@
-<meta name="description" content="As times have changed, Biden has expressed retrospective misgivings about some of his earlier actions and stances. That’s not enough." />
+<meta
+  name="description"
+  content="As times have changed, Biden has expressed retrospective misgivings about some of his earlier actions and stances. That’s not enough."
+/>
