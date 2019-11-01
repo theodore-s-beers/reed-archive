@@ -10,7 +10,7 @@ The goal here is to collect his writing in a single place, in a way that facilit
 
 If publications ask me to take things down, I will. Likewise, obviously, if Dr. Reed would rather this site not exist.
 
-The list below is in descending chronological order. More items will be added over time. I've started with a broad assortment, and marked some of the most important pieces with a red (or, in dark mode, pink) florette. The source files can be accessed [on GitHub](https://github.com/theodore-s-beers/reed-archive/). _Last updated 31 Oct. 2019._
+The list below is in descending chronological order. More items will be added over time. I've started with a broad assortment, and marked some of the most important pieces with a red (or, in dark mode, pink) florette. The source files can be accessed [on GitHub](https://github.com/theodore-s-beers/reed-archive/). _Last updated 1 Nov. 2019._
 
 ---
 
@@ -28,7 +28,7 @@ The list below is in descending chronological order. More items will be added ov
 
 "[The Trouble with Uplift](trouble-with-uplift/)" (3 Sept. 2018, _The Baffler_)
 
-"[Antiracism: A Neoliberal Alternative to a Left](antiracism/)" (22 May 2018, _Dialectical Anthropology_)
+"[Antiracism: A Neoliberal Alternative to a Left](antiracism-neoliberal/)" (22 May 2018, _Dialectical Anthropology_)
 
 "[Black Politics after 2016](black-politics-after-2016/)" (11 Feb. 2018, _nonsite_)&nbsp;[✿]{.florette}
 
@@ -54,6 +54,12 @@ The list below is in descending chronological order. More items will be added ov
 
 ---
 
+### 2009
+
+"[The Limits of Antiracism](limits-of-antiracism/)" (Sept. 2009, _Left Business Observer_)
+
+---
+
 ### 1995
 
 "&thinsp;['What Are the Drums Saying, Booker?'](drums-saying-booker/)&thinsp;" (11 Apr. 1995, _The Village Voice_)&nbsp;[✿]{.florette}
@@ -63,6 +69,12 @@ The list below is in descending chronological order. More items will be added ov
 ### 1994
 
 "[Review of _The Bell Curve_](bell-curve-review/)" (28 Nov. 1994, _The Nation_)
+
+---
+
+### 1991
+
+"[The Underclass Myth](underclass-myth/)" (1 Aug. 1991, _The Progressive_)
 
 ---
 

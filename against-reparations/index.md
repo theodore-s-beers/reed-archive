@@ -8,9 +8,9 @@ lang: en
 
 #### 11 Feb. 2016&ensp;·&ensp;[_nonsite_](https://nonsite.org/editorial/the-case-against-reparations)
 
-::: {#body-text .section}
-
 _This article was originally published in the_ Progressive _(December 2000)._
+
+::: {#body-text .section}
 
 The notion that white America, however defined, owes reparations to black Americans for slavery and its legacy has been around for some time. Until recently, its most dramatic eruption into public life was in 1969, when James Forman, the former chairman of the Student Nonviolent Coordinating Committee (SNCC), led a protest at New York's liberal Riverside Church and presented a "Black Manifesto" that demanded, among other things, \$500 million in reparations to black Americans from white churches and synagogues. The idea lingered on the periphery of the public agenda for a few years. In 1972, Jesse Jackson's Operation PUSH and the National Economics Association, a black economists' group, attempted to reintroduce it around the presidential election in conjunction with a demand for a \$900 million "freedom budget."
 

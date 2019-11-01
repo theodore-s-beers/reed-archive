@@ -1,0 +1,95 @@
+---
+title: The Underclass Myth
+author: Adolph L. Reed, Jr.
+lang: en
+---
+
+### Adolph L. Reed, Jr.
+
+#### 1 Aug. 1991&ensp;·&ensp;[_The Progressive_](https://progressive.org/magazine/the-underclass-myth-reed/)
+
+_The version of this essay provided here is drawn from Reed's collected volume,_ [Class Notes](https://thenewpress.com/books/class-notes) _(New York, 2000), whereas the link above should contain the text as originally published. There may be slight differences between the two._
+
+<center>＊&emsp;＊&emsp;＊</center>
+
+::: {#body-text .section}
+
+In recent years the image of an urban "underclass" has become the central representation of poverty in American society. In less than a decade the underclass took hold of the public imagination, and came to shape policymakers' agendas concerning issues of race, urban decay, and social welfare. But what is the underclass? What is so compelling about that image? What is its significance in American political life?
+
+The underclass idea rests on fuzzy and disturbing assumptions about poor people, poverty, and the world in which both are reproduced. Those assumptions amount to tacit---and sometimes explicit---claims regarding the defective nature of poor people's motivations, moral character, and behavior. They appeal to hoary prejudices of race, gender, and class which give the upper-class image instant acceptance and verisimilitude even though it is ambiguous and inconsistent on its own terms.
+
+Right-wing, mean-spirited beliefs about poor people have come to suffuse even self-consciously liberal, technocratic policy discussion. Such supposed "friends of the poor" as Charles Murray, Lawrence Mead, Nicholas Lemann, Mickey Kaus, Thomas Sowell, Walter Williams, Robert Woodson, and Glen Loury assume the need to correct, or at least to take into account, poor people's defective tendencies as an essential limit on social policy. The reactionary, purely ideological foundation of the underclass idea becomes clear on close examination.
+
+Although the term has been around for longer, it caught fire in popular and academic circles after Ken Auletta canonized it in 1982 in _The Underclass_, a journalistic, mock-ethnographic essay originally serialized in the _New Yorker_.
+
+Auletta began by joining "poverty" and "antisocial behavior" as equivalent qualifications for underclass status. "The underclass need not be poor---street criminals, for instance, usually are not," he wrote. "The underclass usually operates outside the generally accepted boundaries of society. They are often set apart by their 'deviant' or antisocial behavior, by their bad habits, not just their poverty."
+
+Auletta mused that we might not want to include those who "actually earn a living in the underground economy" and maybe "add illegal, or undocumented aliens," and he wondered whether "those with serious mental illness \[should\] be counted." In a pinch, for a quick, quasi-empirical referent, however, he called up the holy trinity of "welfare mothers, ex-convicts, and drug addicts."
+
+For Mickey Kaus, writing in the _New Republic_, the underclass is the "black lower class" for whom "the work ethic has evaporated and the entrepreneurial drive is channeled into gangs and drug-pushing." Culture figures prominently in Kaus's outlook. In addition to the culture of poverty, he asserts the existence of a "single-parent culture," a "welfare culture," a "culture of single motherhood" (presumably a more specific articulation of the single-parent culture), a "working, taxpaying culture," and a "work-ethic culture."
+
+Nicholas Lemann never tells us exactly how we can identify a member of his underclass. In his nearest attempt at definition, he simply announces that "blacks are splitting into a middle class and an underclass that seems likely never to make it." He tells us that the underclass suffers from a "strongly self-defeating culture" which has its roots in the sharecrop system and whose centerpiece seems to be out-of-wedlock birth. That, however, is as precise as Lemann gets. He does volunteer, though, that this ghetto culture is "venerable" and "disorganized" and that its members need training in some equally vague "bourgeois values."
+
+Within four months of publication of Kaus's and Lemann's articles, Richard Nathan, then of Princeton's prestigious Woodrow Wilson School, declared it was time to shut off debate about the usefulness, empirical soundness, or implications of the underclass notion. We should, he suggested, follow the media in using the term "as a shorthand expression of the concentration of economic and behavioral problems among racial minorities (mainly black and Hispanic) in large, older cities." This underclass is "not just a function of being poor. It involves geography and behavior."
+
+Isabel Sawhill, senior fellow at the Urban Institute, similarly proceeds from the authoritative imagery of "television and newspaper stories" which document the existence of the underclass. Again, the underclass's behavior is its "most distinctive, most interesting, and most troubling" characteristic.
+
+<center>＊&emsp;＊&emsp;＊</center>
+
+The underclass appeals entirely as a powerful metaphor; its resonance has far outpaced its empirical content, and it has thrived as a concept in search of its object. Most who find the notion attractive agree that the underclass is mainly urban and largely nonwhite. They typically agree as well that it constitutes approximately 10 to 20 percent of the poverty population. That percentage, however, is produced by sleight of hand. The number, glibly repeated by journalists and professional statisticians of poverty, has become the consensual estimate without justificatory argument.
+
+The ultimate source of this estimate, instructively, may be Oscar Lewis, _auteur_ of the "culture of poverty," the last generation's effort to ground a behavioral focus on poverty in the authority of social science. Lewis speculated that "about 20 percent of the population below the poverty line" fell into his poverty culture. But his speculation had no sounder basis than contemporary punditry. He characterized it as a belief and a "rough guess" and offered no supporting evidence or argument.
+
+Despite the consensus on the size of the underclass, it is not clear exactly what joins the various aggregations of people said to constitute the underclass. What makes street crime and teen pregnancy signifiers of a common population? Does participation in an underground economy not suggest just the opposite of an evaporated work ethic? How exactly does out-of-wedlock birth become an instance of social pathology?
+
+If a thirty-five-year-old lawyer decides to have a baby without seal of approval from church or state or enduring male affiliation, we do not consider her to be acting pathologically; we may even laud her independence and refusal to knuckle under to patriarchal conventions. Why does such a birth become pathological when it occurs in the maternity ward in Lincoln Hospital in the South Bronx, say, rather than within the pastel walls of an alternative birthing center?
+
+If a woman's decision expresses pathology because she makes it in poverty, then we have fallen into a tautology; she is poor because she is pathological because she is poor.
+
+Part of the problem stems from reliance on mystical assumptions about class, attitudes, behavior, values, and culture. Underclass constructions revise the old nature/culture dichotomy, in which "culture" stood for the principle of human plasticity and adaptation---in the old, Enlightenment view, the agency of progress. Instead, the power of the underclass idea derives from its naturalization of "culture" as an independent force that undermines adaptability and retards progress.
+
+Culture-of-poverty ideology resuscitates the idea of cultural lag, itself a vestige of antique notions of racial temperament.
+
+The underclass image proceeds from a view of class in general that strikingly resembles Victorian convention. Victorians often used "class" and "race" interchangeably; each category was seen as innate. Class and race essences generally were thought to include---in addition to distinctive physiognomy---values, attitudes, and behavior. Thus, Victorian fiction commonly featured characters in humble circumstances who, though unaware of their true, genteel natal origins, always felt ill at ease or out of place among their coarse fellows, as well as other characters whose base derivations, unknown even to themselves, nonetheless brought them low in polite society.
+
+The Victorian resonances come out in the rhetorical moves and chains of inference current culture-of-poverty thinkers employ as they seek to construct meticulous, apparently social-scientific descriptions of an objectively existing underclass.
+
+Richard Nathan, for example, might be able to adduce evidence supporting his contentions about the prevalence of crime, prostitution, drugs, long-term welfare use, and homelessness, but "lack of will and commitment to get an education or a regular job" cannot be ascertained from the data at his disposal. On what does he base that inference? He avoids justifying it by slipping it into a list of categories for which he could marshal plausible evidence. Isabel Sawhill suggests that as dysfunctional behaviors "become commonplace, they are likely to become more acceptable." Both scholars presume to know people's motivations without interviewing them or taking account of their self-understandings.
+
+The problem is compounded by another subtle but critical elision: the assumption that census tracts are synonymous with neighborhoods. Analysis of aggregate socioeconomic and demographic characteristics from census tracts does not inform our understanding of patterns of interaction or the character of norms, values, and aspirations in a group of people who live together. Nevertheless, the elision has become institutionalized in the poverty-research industry, and debate occurs now only over which batches of indicators and what thresholds of them most satisfactorily mark an underclass area.
+
+Those laundry lists of characteristics also entail a questionable extension of the category "behavior" to phenomena that might only indirectly be products of human agency. Female household-heading, for example, can result from a number of circumstances entirely beyond the control of women whose lives are compressed into that label. The same applies to unemployment or underemployment, and even long-term status as a welfare recipient can stem completely from impersonal forces. Characterizing those phenomena as behavior reveals a zeal for validating the underclass concept, and a fundamental inclination to seek the sources of poverty in deficiencies of individuals.
+
+All versions of the underclass notion center on the behavior of its categorical members, though liberals typically hedge with genuflections toward the ultimate weight of historical or structural forces. (The differences on that score, however, are not great. Conservatives also frequently genuflect toward structural pressures and past oppression before enunciating one or another brand of tough-love remedy for the present.)
+
+Why, though, does the underclass idea appeal so powerfully to people---including disciplined scholars---even as they must perform elaborate, dubious maneuvers to define it?
+
+Some of the notion's popularity is driven by the sociology of the policy research community. Technocratic discourse and methods nurture ideas that depoliticize the frame for examining social problems. The underclass formulation is attractive precisely because it does not exist as anyone's self-description. It is purely a statistical artifact, and therefore exclusively the creation and property of its chroniclers.
+
+The underclass notion also appeals to several ideological dispositions. Most immediately it resonates with the ahistorical individualism rampant in the Reagan/Bush/Clinton era. As a corollary, it is attractive to many petit bourgeois blacks because it flatters their success by comparison and, through the insipid role model rhetoric, allows fawning over the allegedly special, tutelary role of the black middle class.
+
+The idea of a behaviorally defined underclass also affirms an ensemble of racial and class prejudices that lurk beneath an apparently innocuous, certainly stupid tendency to reduce the social world to aggregates of good people and bad people. Simply, good people are people like "us"; bad people are not, and the same behavior is assessed differently depending on the category into which the perpetrator falls.
+
+An eighteen-year-old drug courier with a monogrammed BMW is pathological; an arbitrageur who strays too far onto the wrong side of legality, is too clever for his own good---the stuff of tragedy. Dependency on AFDC breeds sloth and pathology; dependency on military contracts, tax abatements, or FHA loans does a patriotic service for the country, incubates family values, and so forth.
+
+Finally, the underclass notion may receive the greatest ideological boost from pure sexism. For drug-crazed, lawless black and Hispanic men, the companion image is the so-called "cycle of poverty," which focuses on women's living and reproductive practices as the transmission belt that drives the cycle.
+
+The rhetoric of "family values," and of "disorganization," "deterioration," and "disintegration" stigmatizes female-headed households, which now are home to a majority of American children, and applies a hierarchy of propriety to the conjugal arrangements within which women might give birth. Of the master list of empirical indicators of pathology, most are observable only in women.
+
+We are already seeing the policy fruit that this imagery bears. A judge in Kansas City has ordered children to use their absent fathers' names, presumably to strengthen obligation by establishing ownership. A Kansas state legislator has argued that impoverished women should be induced to accept Norplant birth-control implants as a way to hold down welfare costs and cut the size of the recipient population.
+
+State welfare departments have taken up marriage brokering, as in a Wisconsin plan to offer cash inducements for women who marry their way off AFDC and to cut benefits for "unwed teenage mothers." These moves demonstrate unambiguously the repressive, antifeminist outlook lurking beneath the focus on family. (In 1996, this repressive impetus culminated in Congress's passage of the Personal Responsibility and Work Opportunity Reconciliation Act, which eliminated AFDC. The Act was signed by President Clinton, who boasted that it was the fulfillment of his 1992 campaign pledge to "end welfare as we know it.")
+
+<center>＊&emsp;＊&emsp;＊</center>
+
+How, then, should we talk about those who are stigmatized as the "underclass"? First, it is imperative to reject all assumptions that poor people are behaviorally or attitudinally different from the rest of American society. Some percentage of _all_ Americans take drugs, fight in families, and abuse or neglect children. If the behavior exists across lines of class, race, and opportunity, then it cannot reasonably be held to produce poverty. If it does not _cause_ poverty, therefore, we do not need to focus on it at all in the context of policy-oriented discussion about poverty.
+
+We should also fight against lurid, exploitative journalism that reproduces obnoxious class and racial prejudices. And we should be prepared to recognize the extent to which such prejudices infiltrate even ostensibly more careful, allegedly sympathetic depictions and expose them for what they are.
+
+Affirmatively, we should insist on returning the focus of the discussion of the production and reproduction of poverty to examination of its sources in the operations of the American political and economic system. Specifically, the discussion should focus on such phenomena as the logic of deindustrialization, models of urban redevelopment driven by real-estate speculation, the general intensification of polarization of wealth, income, and opportunity in American society, the ways in which race and gender figure into those dynamics, and, not least, the role of public policy in reproducing and legitimating them.
+
+Moreover, we should fight for policy changes that will open opportunity structures: support for improving access to jobs, housing, schooling, real drug rehabilitation of the sort available to the relatively well-off. A focus on behavior, after all, leads into a blind alley in policy terms. If we say that poor people are poor because they have bad values, we let government off the hook, even though conscious government policy---for example, in the relations between support for metropolitan real estate speculation and increasing homelessness, malnutrition, and infant mortality---is directly implicated in causing poverty.
+
+Finally, with respect to the litany of moral repressiveness that seems to be obligatory these days, I want the record to show that I do not want to hear another word about drugs or crime without hearing in the same breath about decent jobs, adequate housing, and egalitarian education.
+
+:::

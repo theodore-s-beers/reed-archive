@@ -10,7 +10,7 @@ lang: en
 
 #### 11 Apr. 1995&ensp;·&ensp;_The Village Voice_
 
-_This essay was originally published with the subtitle, "The Current Crisis of the Black Intellectual." The version provided here is drawn from Reed's book of essays,_ [Class Notes](https://thenewpress.com/books/class-notes) _(New York, 2000). You can read it [in PDF](https://libcom.org/files/ReedWhatAreTheDrumsSayingBooker.pdf), if you prefer._
+_This essay was originally published with the subtitle, "The Current Crisis of the Black Intellectual." The version provided here is drawn from Reed's collected volume,_ [Class Notes](https://thenewpress.com/books/class-notes) _(New York, 2000). You can read it [in PDF](https://libcom.org/files/ReedWhatAreTheDrumsSayingBooker.pdf), if you prefer._
 
 <center>＊&emsp;＊&emsp;＊</center>
 
