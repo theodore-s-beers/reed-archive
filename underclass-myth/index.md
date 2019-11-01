@@ -8,7 +8,7 @@ lang: en
 
 #### 1 Aug. 1991&ensp;·&ensp;[_The Progressive_](https://progressive.org/magazine/the-underclass-myth-reed/)
 
-_The version of this essay provided here is drawn from Reed's collected volume,_ [Class Notes](https://thenewpress.com/books/class-notes) _(New York, 2000), whereas the link above should contain the text as originally published. There may be slight differences between the two._
+_The version of this essay provided here is drawn from Reed's collected volume,_ [Class Notes](https://thenewpress.com/books/class-notes) _(New York, 2000), whereas the link above should contain the text as originally published. There are minor differences between the two._
 
 <center>＊&emsp;＊&emsp;＊</center>
 
@@ -44,7 +44,7 @@ Despite the consensus on the size of the underclass, it is not clear exactly wha
 
 If a thirty-five-year-old lawyer decides to have a baby without seal of approval from church or state or enduring male affiliation, we do not consider her to be acting pathologically; we may even laud her independence and refusal to knuckle under to patriarchal conventions. Why does such a birth become pathological when it occurs in the maternity ward in Lincoln Hospital in the South Bronx, say, rather than within the pastel walls of an alternative birthing center?
 
-If a woman's decision expresses pathology because she makes it in poverty, then we have fallen into a tautology; she is poor because she is pathological because she is poor.
+If a woman's decision expresses pathology because she makes it in poverty, then we have fallen into a tautology: she is poor because she is pathological because she is poor.
 
 Part of the problem stems from reliance on mystical assumptions about class, attitudes, behavior, values, and culture. Underclass constructions revise the old nature/culture dichotomy, in which "culture" stood for the principle of human plasticity and adaptation---in the old, Enlightenment view, the agency of progress. Instead, the power of the underclass idea derives from its naturalization of "culture" as an independent force that undermines adaptability and retards progress.
 
@@ -70,7 +70,7 @@ The underclass notion also appeals to several ideological dispositions. Most imm
 
 The idea of a behaviorally defined underclass also affirms an ensemble of racial and class prejudices that lurk beneath an apparently innocuous, certainly stupid tendency to reduce the social world to aggregates of good people and bad people. Simply, good people are people like "us"; bad people are not, and the same behavior is assessed differently depending on the category into which the perpetrator falls.
 
-An eighteen-year-old drug courier with a monogrammed BMW is pathological; an arbitrageur who strays too far onto the wrong side of legality, is too clever for his own good---the stuff of tragedy. Dependency on AFDC breeds sloth and pathology; dependency on military contracts, tax abatements, or FHA loans does a patriotic service for the country, incubates family values, and so forth.
+An eighteen-year-old drug courier with a monogrammed BMW is pathological; an arbitrageur who strays too far onto the wrong side of legality is too clever for his own good---the stuff of tragedy. Dependency on AFDC breeds sloth and pathology; dependency on military contracts, tax abatements, or FHA loans does a patriotic service for the country, incubates family values, and so forth.
 
 Finally, the underclass notion may receive the greatest ideological boost from pure sexism. For drug-crazed, lawless black and Hispanic men, the companion image is the so-called "cycle of poverty," which focuses on women's living and reproductive practices as the transmission belt that drives the cycle.
 
