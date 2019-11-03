@@ -8,7 +8,7 @@ lang: en
 
 #### 1 Aug. 1991&ensp;·&ensp;[_The Progressive_](https://progressive.org/magazine/the-underclass-myth-reed/)
 
-_The version of this essay provided here is drawn from Reed's collected volume,_ [Class Notes](https://thenewpress.com/books/class-notes) _(New York, 2000), whereas the link above should contain the text as originally published. There are minor differences between the two._
+_The version of this essay provided here is drawn from Reed's collected volume,_ [Class Notes](https://thenewpress.com/books/class-notes) _(New York, 2000), whereas the link above should contain the text as originally published. There are slight differences between the two._
 
 <center>＊&emsp;＊&emsp;＊</center>
 
