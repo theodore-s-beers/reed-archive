@@ -6,7 +6,7 @@ lang: en
 
 ### Adolph L. Reed, Jr.
 
-#### 8 Jan. 2019&ensp;·&ensp;[_nonsite_](https://nonsite.org/editorial/what-materialist-black-political-history-actually-looks-like)
+#### 8 Jan. 2019&ensp;&bull;&ensp;[_nonsite_](https://nonsite.org/editorial/what-materialist-black-political-history-actually-looks-like)
 
 ::: {#body-text .section}
 

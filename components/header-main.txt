@@ -1,0 +1,7 @@
+<div class="theme-switch-wrapper" style="display:flex;justify-content:flex-end">
+  <em id="theme-text">Light</em>&ensp;
+  <label class="theme-switch" for="checkbox">
+    <input type="checkbox" id="checkbox" />
+    <div class="slider round"></div>
+  </label>
+</div>

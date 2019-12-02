@@ -8,7 +8,7 @@ lang: en
 
 ### Adolph L. Reed, Jr.
 
-#### 28 Nov. 1994&ensp;·&ensp;[_The Nation_](https://www.thenation.com/article/looking-backward-2/)
+#### 28 Nov. 1994&ensp;&bull;&ensp;[_The Nation_](https://www.thenation.com/article/looking-backward-2/)
 
 ::: {#body-text .section}
 

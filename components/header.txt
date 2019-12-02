@@ -1,0 +1,10 @@
+<center>
+  <div class="theme-switch-wrapper">
+    <a href="../">Return to index</a>&ensp;&bull;&ensp;
+    <label class="theme-switch" for="checkbox">
+      <input type="checkbox" id="checkbox" />
+      <div class="slider round"></div>
+    </label>
+    &ensp;<em id="theme-text">Light</em>
+  </div>
+</center>

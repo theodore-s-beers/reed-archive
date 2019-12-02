@@ -1,0 +1,10 @@
+<link href="#" rel="icon" />
+<link
+  href="https://fonts.googleapis.com/css?family=Merriweather:400,400i&display=swap"
+  rel="stylesheet"
+/>
+<link
+  href="https://fonts.googleapis.com/css?family=Noto+Serif&text=0123456789&display=swap"
+  rel="stylesheet"
+/>
+<link href="styles.css" rel="stylesheet" />

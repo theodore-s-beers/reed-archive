@@ -6,7 +6,7 @@ lang: en
 
 ### Adolph L. Reed, Jr.
 
-#### 11 Feb. 2018&ensp;·&ensp;[_nonsite_](https://nonsite.org/article/black-politics-after-2016)
+#### 11 Feb. 2018&ensp;&bull;&ensp;[_nonsite_](https://nonsite.org/article/black-politics-after-2016)
 
 ::: {#body-text .section}
 

@@ -6,7 +6,7 @@ lang: en
 
 ### Adolph L. Reed, Jr.
 
-#### 11 Feb. 2016&ensp;·&ensp;[_nonsite_](https://nonsite.org/editorial/the-case-against-reparations)
+#### 11 Feb. 2016&ensp;&bull;&ensp;[_nonsite_](https://nonsite.org/editorial/the-case-against-reparations)
 
 _This article was originally published in the_ Progressive _(December 2000)._
 

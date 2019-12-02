@@ -1,0 +1,110 @@
+/* Global stuff */
+:root {
+  --bg-color: #fff;
+  --font-color: #282828;
+  --link-color: #00e;
+  --slider-circle-color: #fff;
+  --slider-bg-color: #ccc;
+  --florette-color: #a61212;
+}
+[data-theme="dark"] {
+  --bg-color: #26282a;
+  --font-color: #e6e6e6;
+  --link-color: #eab499;
+  --slider-circle-color: #e6e6e6;
+  --slider-bg-color: #eab499;
+  --florette-color: #fcaaaa;
+}
+
+/* Styles for content */
+body {
+  background-color: var(--bg-color);
+  color: var(--font-color);
+  font-family: Merriweather, serif;
+  max-width: 68ch;
+  padding: 2ch;
+  margin: auto;
+}
+li,
+p {
+  line-height: 1.5;
+}
+a {
+  color: var(--link-color);
+}
+sup {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+.author {
+  display: none;
+}
+.florette {
+  color: var(--florette-color);
+}
+.footnote-back {
+  margin-left: 0.3em;
+}
+.footnotes {
+  font-size: smaller;
+}
+.footnotes a {
+  overflow-wrap: break-word;
+}
+.footnotes hr {
+  display: none;
+}
+.footnotes li {
+  padding-left: 0.2em;
+}
+#body-text sup {
+  font-family: "Noto Serif", Merriweather, serif;
+}
+#notes {
+  margin-top: 2rem;
+}
+
+/* Styles for the theme switch */
+.theme-switch-wrapper {
+  display: inline-flex;
+  align-items: center;
+}
+.theme-switch {
+  display: inline-block;
+  height: 34px;
+  position: relative;
+  width: 60px;
+}
+.theme-switch input {
+  display: none;
+}
+.slider {
+  background-color: var(--slider-bg-color);
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: 0.4s;
+}
+.slider:before {
+  background-color: var(--slider-circle-color);
+  bottom: 4px;
+  content: "";
+  height: 26px;
+  left: 4px;
+  position: absolute;
+  transition: 0.4s;
+  width: 26px;
+}
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+.slider.round {
+  border-radius: 34px;
+}
+.slider.round:before {
+  border-radius: 50%;
+}

@@ -1,12 +1,12 @@
 After making changes…
 
-1) Pandoc all index.md files, except the one in the top directory, to index.html. We disable Markdown auto identifiers, add the meta description and CSS to the head, and add the header and footer.
+1) Pandoc all index.md files, except the one in the top directory, to index.html. We disable Markdown auto identifiers, add the meta description and CSS link to the head, then the header and footer, and finally the link to the theme selector script.
 
-find . -name "index.md" ! -path "./index.md" -execdir pandoc index.md -o index.html -f markdown-auto_identifiers -H desc.txt -H ../styles.txt -B ../header.txt -A ../footer.txt \;
+find . -name "index.md" ! -path "./index.md" -execdir pandoc index.md -o index.html -f markdown-auto_identifiers -H desc.txt -H ../components/style-links.txt -B ../components/header.txt -A ../components/footer.txt -A ../components/script-link.txt \;
 
-2) Pandoc index.md in the top directory to index.html. The difference here is that we omit the header and footer, and the paths change for the description and CSS.
+2) Pandoc index.md in the top directory to index.html. The difference here is that we have a slightly different header and omit the footer, and the paths change for the description and the CSS and JS links.
 
-pandoc index.md -o index.html -f markdown-auto_identifiers -H desc.txt -H styles.txt
+pandoc index.md -o index.html -f markdown-auto_identifiers -H desc.txt -H components/style-links-main.txt -B components/header-main.txt -A components/script-link-main.txt
 
 3) In the generated HTML files, add target="_blank" and rel="noopener" to all links to external sites.
 
@@ -14,7 +14,7 @@ find . -name "index.html" -exec sed -i '' 's/a href="http/a target="_blank" rel=
 
 4) Minify all HTML. (For some reason, this prevents errors in the subsequent encoding step.)
 
-find . -name "*.html" -exec html-minifier {} -o {} --collapse-whitespace --minify-css true \;
+find . -name "*.html" -exec html-minifier --collapse-whitespace --minify-css true -o {} {} \;
 
 5) Encode special characters as HTML entities in the generated files.
 
@@ -23,12 +23,12 @@ find . -name "index.html.out" -execdir mv index.html.out index.html \;
 
 6) For good measure, minify all HTML again, then run it through Prettier.
 
-find . -name "*.html" -exec html-minifier {} -o {} --collapse-whitespace --minify-css true \;
-find . -name "*.html" -exec prettier {} --write \;
+find . -name "*.html" -exec html-minifier --collapse-whitespace --minify-css true -o {} {} \;
+find . -name "*.html" -exec prettier --write {} \;
 
 As a sequence of commands:
 
-find . -name "index.md" ! -path "./index.md" -execdir pandoc index.md -o index.html -f markdown-auto_identifiers -H desc.txt -H ../styles.txt -B ../header.txt -A ../footer.txt \; && pandoc index.md -o index.html -f markdown-auto_identifiers -H desc.txt -H styles.txt && find . -name "index.html" -exec sed -i '' 's/a href="http/a target="_blank" rel="noopener" href="http/g' {} \; && find . -name "*.html" -exec html-minifier {} -o {} --collapse-whitespace --minify-css true \; && for i in `find . -name "index.html"`; do he --encode --allow-unsafe < $i > $i.out; done && find . -name "index.html.out" -execdir mv index.html.out index.html \; && find . -name "*.html" -exec html-minifier {} -o {} --collapse-whitespace --minify-css true \; && find . -name "*.html" -exec prettier {} --write \;
+find . -name "index.md" ! -path "./index.md" -execdir pandoc index.md -o index.html -f markdown-auto_identifiers -H desc.txt -H ../components/style-links.txt -B ../components/header.txt -A ../components/footer.txt -A ../components/script-link.txt \; && pandoc index.md -o index.html -f markdown-auto_identifiers -H desc.txt -H components/style-links-main.txt -B components/header-main.txt -A components/script-link-main.txt && find . -name "index.html" -exec sed -i '' 's/a href="http/a target="_blank" rel="noopener" href="http/g' {} \; && find . -name "*.html" -exec html-minifier --collapse-whitespace --minify-css true -o {} {} \; && for i in `find . -name "index.html"`; do he --encode --allow-unsafe < $i > $i.out; done && find . -name "index.html.out" -execdir mv index.html.out index.html \; && find . -name "*.html" -exec html-minifier --collapse-whitespace --minify-css true -o {} {} \; && find . -name "*.html" -exec prettier --write {} \;
 
 
 Caveat(s):

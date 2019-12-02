@@ -6,7 +6,7 @@ lang: en
 
 ### Adolph L. Reed, Jr.
 
-#### 20 Mar. 1979&ensp;·&ensp;[_Telos_](http://journal.telospress.com/content/1979/39/71.abstract) ([PDF](https://libcom.org/files/reed1979.pdf))
+#### 20 Mar. 1979&ensp;&bull;&ensp;[_Telos_](http://journal.telospress.com/content/1979/39/71.abstract) ([PDF](https://libcom.org/files/reed1979.pdf))
 
 ::: {#body-text .section}
 

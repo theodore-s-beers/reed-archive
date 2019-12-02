@@ -8,7 +8,7 @@ lang: en
 
 ### Adolph L. Reed, Jr.
 
-#### 3 Sept. 2018&ensp;·&ensp;[_The Baffler_](https://thebaffler.com/salvos/the-trouble-with-uplift-reed)
+#### 3 Sept. 2018&ensp;&bull;&ensp;[_The Baffler_](https://thebaffler.com/salvos/the-trouble-with-uplift-reed)
 
 ::: {#body-text .section}
 

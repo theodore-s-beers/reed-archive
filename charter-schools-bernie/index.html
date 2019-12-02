@@ -26,6 +26,10 @@
         vertical-align: top;
         width: 50%;
       }
+      div.hanging-indent {
+        margin-left: 1.5em;
+        text-indent: -1.5em;
+      }
     </style>
     <!--[if lt IE 9]>
       <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
@@ -34,7 +38,7 @@
       name="description"
       content="Arguing that charter schools offer unique opportunities for poor African-American children isn&#x2019;t borne out by the facts."
     />
-    <link rel="icon" href="#" />
+    <link href="#" rel="icon" />
     <link
       href="https://fonts.googleapis.com/css?family=Merriweather:400,400i&display=swap"
       rel="stylesheet"
@@ -43,66 +47,20 @@
       href="https://fonts.googleapis.com/css?family=Noto+Serif&text=0123456789&display=swap"
       rel="stylesheet"
     />
-    <style>
-      body {
-        font-family: Merriweather, serif;
-        max-width: 68ch;
-        padding: 2ch;
-        margin: auto;
-        color: #282828;
-      }
-      li,
-      p {
-        line-height: 1.5;
-      }
-      sup {
-        vertical-align: baseline;
-        position: relative;
-        top: -0.4em;
-      }
-      .author {
-        display: none;
-      }
-      .florette {
-        color: #a61212;
-      }
-      .footnote-back {
-        margin-left: 0.3em;
-      }
-      .footnotes {
-        font-size: smaller;
-      }
-      .footnotes a {
-        overflow-wrap: break-word;
-      }
-      .footnotes hr {
-        display: none;
-      }
-      .footnotes li {
-        padding-left: 0.2em;
-      }
-      #body-text sup {
-        font-family: "Noto Serif", Merriweather, serif;
-      }
-      #notes {
-        margin-top: 2rem;
-      }
-      @media (prefers-color-scheme: dark) {
-        body {
-          background-color: #26282a;
-          color: #e6e6e6;
-        }
-        a {
-          color: #eab499;
-        }
-        .florette {
-          color: #fcaaaa;
-        }
-      }
-    </style>
+    <link href="../styles.css" rel="stylesheet" />
   </head>
+
   <body>
-    <center><a href="../">Return to index</a></center>
+    <center>
+      <div class="theme-switch-wrapper">
+        <a href="../">Return to index</a>&ensp;&bull;&ensp;
+        <label class="theme-switch" for="checkbox"
+          ><input type="checkbox" id="checkbox"/>
+          <div class="slider round"></div
+        ></label>
+        &ensp;<em id="theme-text">Light</em>
+      </div>
+    </center>
     <header id="title-block-header">
       <h1 class="title">
         The Charter School Industry&#x2019;s Dishonest Attack on Bernie Sanders
@@ -117,7 +75,7 @@
     </h3>
     <h3>Adolph L. Reed, Jr., and Cornel West</h3>
     <h4>
-      19 June 2019&#x2002;&#xB7;&#x2002;<a
+      19 June 2019&#x2002;&#x2022;&#x2002;<a
         target="_blank"
         rel="noopener"
         href="https://www.thenation.com/article/bernie-sanders-charter-schools/"
@@ -523,5 +481,6 @@
       </p>
     </section>
     <center style="margin-top:2rem"><a href="../">Return to index</a></center>
+    <script src="../switchTheme.js"></script>
   </body>
 </html>

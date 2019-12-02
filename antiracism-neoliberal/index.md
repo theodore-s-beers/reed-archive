@@ -6,7 +6,7 @@ lang: en
 
 ### Adolph L. Reed, Jr.
 
-#### 22 May 2018&ensp;·&ensp;[_Dialectical Anthropology_](https://link.springer.com/article/10.1007/s10624-017-9476-3)
+#### 22 May 2018&ensp;&bull;&ensp;[_Dialectical Anthropology_](https://link.springer.com/article/10.1007/s10624-017-9476-3)
 
 ::: {#body-text .section}
 

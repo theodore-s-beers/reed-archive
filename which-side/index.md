@@ -8,7 +8,7 @@ lang: en
 
 ### Adolph L. Reed, Jr.
 
-#### 23 Dec. 2018&ensp;·&ensp;[_Common Dreams_](https://www.commondreams.org/views/2018/12/23/which-side-are-you)
+#### 23 Dec. 2018&ensp;&bull;&ensp;[_Common Dreams_](https://www.commondreams.org/views/2018/12/23/which-side-are-you)
 
 ::: {#body-text .section}
 

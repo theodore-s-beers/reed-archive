@@ -6,7 +6,7 @@ lang: en
 
 ### Adolph L. Reed, Jr.
 
-#### Sept. 2009&ensp;·&ensp;[_Left Business Observer_](http://www.leftbusinessobserver.com/Antiracism.html)
+#### Sept. 2009&ensp;&bull;&ensp;[_Left Business Observer_](http://www.leftbusinessobserver.com/Antiracism.html)
 
 ::: {#body-text .section}
 

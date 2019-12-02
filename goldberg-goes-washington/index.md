@@ -8,7 +8,7 @@ lang: en
 
 ### Adolph L. Reed, Jr.
 
-#### 4 Mar. 2014&ensp;·&ensp;[_Jacobin_](https://www.jacobinmag.com/2014/03/michelle-goldberg-goes-to-washington)
+#### 4 Mar. 2014&ensp;&bull;&ensp;[_Jacobin_](https://www.jacobinmag.com/2014/03/michelle-goldberg-goes-to-washington)
 
 ::: {#body-text .section}
 

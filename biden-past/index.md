@@ -8,7 +8,7 @@ lang: en
 
 ### Adolph L. Reed, Jr.
 
-#### 1 May 2019&ensp;·&ensp;[_The Guardian_](https://www.theguardian.com/commentisfree/2019/may/01/biden-2020-past-better-candidate)
+#### 1 May 2019&ensp;&bull;&ensp;[_The Guardian_](https://www.theguardian.com/commentisfree/2019/may/01/biden-2020-past-better-candidate)
 
 ::: {#body-text .section}
 

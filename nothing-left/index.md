@@ -8,7 +8,7 @@ lang: en
 
 ### Adolph L. Reed, Jr.
 
-#### Mar. 2014&ensp;·&ensp;[_Harper's_](https://harpers.org/archive/2014/03/nothing-left-2/)
+#### Mar. 2014&ensp;&bull;&ensp;[_Harper's_](https://harpers.org/archive/2014/03/nothing-left-2/)
 
 ::: {#body-text .section}
 

@@ -8,7 +8,7 @@ lang: en
 
 ### Adolph L. Reed, Jr., and Cornel West
 
-#### 19 June 2019&ensp;·&ensp;[_The Nation_](https://www.thenation.com/article/bernie-sanders-charter-schools/)
+#### 19 June 2019&ensp;&bull;&ensp;[_The Nation_](https://www.thenation.com/article/bernie-sanders-charter-schools/)
 
 ::: {#body-text .section}
 

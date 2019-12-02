@@ -6,7 +6,7 @@ lang: en
 
 ### Adolph L. Reed, Jr.
 
-#### 15 June 2015&ensp;·&ensp;[_Common Dreams_](https://www.commondreams.org/views/2015/06/15/jenner-dolezal-one-trans-good-other-not-so-much)
+#### 15 June 2015&ensp;&bull;&ensp;[_Common Dreams_](https://www.commondreams.org/views/2015/06/15/jenner-dolezal-one-trans-good-other-not-so-much)
 
 ::: {#body-text .section}
 
