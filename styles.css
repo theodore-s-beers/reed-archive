@@ -43,6 +43,12 @@ sup {
 .florette {
   color: var(--florette-color);
 }
+.footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.8rem;
+  margin-bottom: 0;
+}
 .footnote-back {
   margin-left: 0.3em;
 }
@@ -58,6 +64,10 @@ sup {
 .footnotes li {
   padding-left: 0.2em;
 }
+.separator {
+  display: flex;
+  justify-content: center;
+}
 #body-text sup {
   font-family: "Noto Serif", Merriweather, serif;
 }
@@ -67,7 +77,8 @@ sup {
 
 /* Styles for the theme switch */
 .theme-switch-wrapper {
-  display: inline-flex;
+  display: flex;
+  justify-content: center;
   align-items: center;
 }
 .theme-switch {

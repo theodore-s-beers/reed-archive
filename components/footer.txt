@@ -1,3 +1,3 @@
-<center style="margin-top:2rem">
+<p class="footer">
   <a href="../">Return to index</a>
-</center>
+</p>

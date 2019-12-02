@@ -10,7 +10,7 @@ lang: en
 
 _The version of this essay provided here is drawn from Reed's collected volume,_ [Class Notes](https://thenewpress.com/books/class-notes) _(New York, 2000), whereas the link above should contain the text as originally published. There are slight differences between the two._
 
-<center>＊&emsp;＊&emsp;＊</center>
+<p class="separator">＊&emsp;＊&emsp;＊</p>
 
 ::: {#body-text .section}
 
@@ -34,7 +34,7 @@ Within four months of publication of Kaus's and Lemann's articles, Richard Natha
 
 Isabel Sawhill, senior fellow at the Urban Institute, similarly proceeds from the authoritative imagery of "television and newspaper stories" which document the existence of the underclass. Again, the underclass's behavior is its "most distinctive, most interesting, and most troubling" characteristic.
 
-<center>＊&emsp;＊&emsp;＊</center>
+<p class="separator">＊&emsp;＊&emsp;＊</p>
 
 The underclass appeals entirely as a powerful metaphor; its resonance has far outpaced its empirical content, and it has thrived as a concept in search of its object. Most who find the notion attractive agree that the underclass is mainly urban and largely nonwhite. They typically agree as well that it constitutes approximately 10 to 20 percent of the poverty population. That percentage, however, is produced by sleight of hand. The number, glibly repeated by journalists and professional statisticians of poverty, has become the consensual estimate without justificatory argument.
 
@@ -80,7 +80,7 @@ We are already seeing the policy fruit that this imagery bears. A judge in Kansa
 
 State welfare departments have taken up marriage brokering, as in a Wisconsin plan to offer cash inducements for women who marry their way off AFDC and to cut benefits for "unwed teenage mothers." These moves demonstrate unambiguously the repressive, antifeminist outlook lurking beneath the focus on family. (In 1996, this repressive impetus culminated in Congress's passage of the Personal Responsibility and Work Opportunity Reconciliation Act, which eliminated AFDC. The Act was signed by President Clinton, who boasted that it was the fulfillment of his 1992 campaign pledge to "end welfare as we know it.")
 
-<center>＊&emsp;＊&emsp;＊</center>
+<p class="separator">＊&emsp;＊&emsp;＊</p>
 
 How, then, should we talk about those who are stigmatized as the "underclass"? First, it is imperative to reject all assumptions that poor people are behaviorally or attitudinally different from the rest of American society. Some percentage of _all_ Americans take drugs, fight in families, and abuse or neglect children. If the behavior exists across lines of class, race, and opportunity, then it cannot reasonably be held to produce poverty. If it does not _cause_ poverty, therefore, we do not need to focus on it at all in the context of policy-oriented discussion about poverty.
 

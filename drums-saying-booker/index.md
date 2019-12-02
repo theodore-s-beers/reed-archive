@@ -12,7 +12,7 @@ lang: en
 
 _This essay was originally published with the subtitle, "The Current Crisis of the Black Intellectual." The version provided here is drawn from Reed's collected volume,_ [Class Notes](https://thenewpress.com/books/class-notes) _(New York, 2000). You can read it [in PDF](https://libcom.org/files/ReedWhatAreTheDrumsSayingBooker.pdf), if you prefer._
 
-<center>＊&emsp;＊&emsp;＊</center>
+<p class="separator">＊&emsp;＊&emsp;＊</p>
 
 ::: {#body-text .section}
 
@@ -24,7 +24,7 @@ In the last months of 1994 and early 1995, the notion gained greater currency. I
 
 The "public intellectual" notion emerged in 1987, when Russell Jacoby published _The Last Intellectuals_, which was in part a nostalgic exaltation of a previous cohort of politically engaged writers and critics. Jacoby contended that public intellectuals such as Dwight MacDonald, Irving Howe, Philip Rahv, and others were only marginally tied to the academy, and that their freedom from institutional constraint enabled them to fashion an autonomous, macroscopic view of American society and culture. The cohort of black people who call themselves black public intellectuals seem to suggest that they constitute a new social and political identity. But on closer examination, the role is all too familiar.
 
-<center>＊&emsp;＊&emsp;＊</center>
+<p class="separator">＊&emsp;＊&emsp;＊</p>
 
 We might see today's black public intellectuals as lineal descendants of the authors of nineteenth-century slave narratives, if we understand those narratives as attempts to articulate a collective racial voice. The major difference is that slave narrators---with the partial exception of Frederick Douglass---did not attain celebrity as individuals. Rather, their public significance lay in embodying black people's collective capabilities.
 
@@ -44,7 +44,7 @@ Each of these discursive moments, however, was haunted by the problem of speakin
 
 This presumption in turn reflects an important complication facing black intellectuals; they need to address both black and white audiences, and those different acts of communication proceed from objectives that are distinct and often incompatible. James Weldon Johnson identified this peculiar burden in a 1928 essay, "The Dilemma of the Negro Author," noting that black writers face "more than a double audience; it is a divided audience made up of two elements with differing and often quite opposite and antagonistic points of view." Although Johnson focused primarily on creative writing, his observation that the white audience's biases dispose black authors toward a "defensive and exculpatory literature" applies more generally. The historian Lawrence D. Reddick and the philosopher William T. Fontaine in the '30s and '40s similarly complained of the "defense psychology" of black scholars, maintaining that it undermines examination of the black experience by grounding Afro-Americanist inquiry in the narrow, other-directed objective of demonstrating black people's equal humanity.
 
-<center>＊&emsp;＊&emsp;＊</center>
+<p class="separator">＊&emsp;＊&emsp;＊</p>
 
 Those who now describe themselves as black public intellectuals diverge significantly from the rich history of black commentary. Their differences speak to the character of our time and the changes in black intellectual life ensuing from the passage of the segregation era. The contemporary public intellectuals are unique in that they exhibit little sense of debate or controversy among themselves as a cohort. To the contrary, they seem rather to come together as a publicist's delight, a hyperbolically log-rolling lovefest. Watkins and West gush over each other's nonpareil brilliance; Gates proclaims West "the preeminent African-American intellectual of our generation"; and Gates, West, and Kelley lavish world-historical superlatives on Dyson, who, naturally enough, expresses comparable judgments about them. Their anthologies and conferences feature no sharp disagreements. Instead, they function as a kind of Tuskegee Machine by committee. Their political utterances exude _pro forma_ moralism, not passion. Their critiques are only easy pronouncements against racism, sexism, homophobia, anti-Semitism or equally easy dissent from a lame Afrocentricity that has no adherents among their audience anyway.
 
@@ -64,7 +64,7 @@ Where Baldwin and Ellison bristled at the Black Voice designation, today's publi
 
 As with Washington, the public intellectual's authenticity is conferred by white opinion-makers. The typical trajectory of stardom is instructive. First, one becomes recognized as a Black Voice in the intellectual apparatus of the left, which---out of a combination of good intentions and bad faith---stands ever ready to confer prominence on any reasonable, articulate black person willing to associate with it. To qualify, one need not even put forward a critique that seems leftist by usual standards: secular, rooted in political economy, focused on stimulating political mobilization. After all, the "black community" is different, has different needs, _etc_. Reputation spreads, and eventually opportunities present themselves to cross over from the left intellectual ghetto to the status of Black Voice for the mainstream. All it takes is the courage to square off in the white public sphere against black anti-Semitism on the Anti-Defamation League's terms, or to join the chorus lamenting the putative social pathology of the inner city. Not to mention a knack for packaging the center-right wisdom of the moment as a well-considered, yet bold and personally risky challenge to convention. This is the path blazed so far by Gates and West, and Dyson, as usual, is bringing his best Pigmeat-Markham-Meets-Baudrillard act along behind.
 
-<center>＊&emsp;＊&emsp;＊</center>
+<p class="separator">＊&emsp;＊&emsp;＊</p>
 
 The consummate irony of the puffery is that it is misdirected all the way through. Jacoby's archetype is only weakly connected to the bureaucratized intellectual life of the academy. His public intellectual figures in a critique of the politically corrosive effects of the left's having settled into the university after the collapse of extramural radicalism. But those now wearing the black public intellectual tag as a red, black, and green badge of courage are not only deeply embedded in the higher reaches of the academic celebrity system, they are also its unalloyed products. This brute fact is obscured by another flimflam---what we might call the Proudhon Scam. Marx quipped that the anarchist Pierre-Joseph Proudhon represented himself in Germany, where they didn't know much political economy, as a political economist; and in France, where they didn't know much philosophy, as a philosopher. West, Dyson _et al_. use the public intellectual pose to claim authority both as certified, world-class elite academics and as links to an extra-academic blackness, thus splitting the difference between being insiders and outsiders. In the process, they are able to skirt the practical requirements of either role---to avoid both rigorous, careful intellectual work _and_ protracted, committed political action.
 
