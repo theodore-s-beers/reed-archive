@@ -2,6 +2,6 @@
   <em id="theme-text">Light</em>&ensp;
   <label class="theme-switch" for="checkbox">
     <input type="checkbox" id="checkbox" />
-    <div class="slider round"></div>
+    <span class="slider round"></span>
   </label>
 </div>
