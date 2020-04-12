@@ -29,7 +29,3 @@ find . -name "*.html" -exec prettier --write {} \;
 As a sequence of commands:
 
 find . -name "index.md" ! -path "./index.md" -execdir pandoc index.md -o index.html -f markdown-auto_identifiers --tab-stop=2 -H desc.txt -H ../components/style-links.txt -B ../components/header.txt -A ../components/footer.txt -A ../components/script-link.txt \; && pandoc index.md -o index.html -f markdown-auto_identifiers --tab-stop=2 -H desc.txt -H components/style-links-main.txt -B components/header-main.txt -A components/script-link-main.txt && find . -name "index.html" -exec sed -i '' 's/a href="http/a target="_blank" rel="noopener" href="http/g' {} \; && find . -name "*.html" -exec html-minifier --collapse-whitespace --minify-css true -o {} {} \; && for i in `find . -name "index.html"`; do he --encode --allow-unsafe < $i > $i.out; done && find . -name "index.html.out" -execdir mv index.html.out index.html \; && find . -name "*.html" -exec html-minifier --collapse-whitespace --minify-css true -o {} {} \; && find . -name "*.html" -exec prettier --write {} \;
-
-
-Caveat(s):
-- Double-check the formatting of footnote 41 in "Black Particularity Reconsidered." Pandoc has a certain Markdown syntax for multi-paragraph footnotes, which seems not to be recognized by auto-formatters.
