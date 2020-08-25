@@ -89,6 +89,11 @@ sup {
   justify-content: center;
   align-items: center;
 }
+.theme-switch-wrapper-main {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
 .theme-switch {
   display: inline-block;
   height: 34px;
