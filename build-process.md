@@ -1,6 +1,6 @@
 # Build process
 
-1. Pandoc all `index.md` files, except the one in the top directory, to `index.html`. We disable Markdown auto identifiers; specify two spaces per tab; add the meta description and CSS link to the head; then the header and footer; and finally the link to the theme selector script.
+1. Pandoc all `index.md` files, except the one in the top directory, to `index.html`. We disable Markdown auto identifiers; specify two spaces per tab; add the meta description and style links to the head; then the header and footer; and finally the link to the theme selector script.
 
 2. Pandoc `index.md` in the top directory to `index.html`. The difference here is that we have a slightly different header and omit the footer, and the paths change for the description and the CSS and JS links.
 
