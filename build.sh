@@ -20,29 +20,26 @@ pandoc index.md \
 -A components/script-link-main.html \
 -o index.html &&
 
+echo "Pandoc finished" &&
+
+npx sort-package-json &&
+
+npm install &&
+
+npm run minify &&
+
 find . -name "index.html" \
 -exec sed -i '' \
 's/a href="http/a target="_blank" rel="noopener" href="http/g' \
 {} \; &&
 
-find . -name "*.html" ! -path "./components/*" \
--exec html-minifier {} \
---collapse-whitespace \
---minify-css true \
--o {} \; &&
+echo "sed round 1 finished" &&
 
-for i in $(find . -name "index.html");
-do he --encode --allow-unsafe < "$i" > "$i".out;
-done &&
+find . -name "index.html" \
+-exec sed -i '' 's/<style>.*<\/style>//g' {} \; &&
 
-find . -name "index.html.out" \
--execdir mv index.html.out index.html \; &&
+echo "sed round 2 finished" &&
 
-find . -name "*.html" ! -path "./components/*" \
--exec html-minifier {} \
---collapse-whitespace \
---minify-css true \
--o {} \; &&
+npm run prettify &&
 
-find . -name "*.html" \
--exec prettier --write {} \;
+npm run standardize
