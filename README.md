@@ -1,3 +1,3 @@
-# An unofficial collection of essays by Adolph L. Reed, Jr.
+# A fan's collection of essays by Adolph L. Reed, Jr.
 
 See <https://www.theobeers.com/reed-archive/>.

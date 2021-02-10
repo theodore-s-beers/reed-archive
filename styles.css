@@ -23,7 +23,7 @@ body {
   background-color: var(--bg-color);
   color: var(--font-color);
   font-family: Merriweather, serif;
-  max-width: 68ch;
+  max-width: 80ch;
   padding: 2ch;
   margin: auto;
 }
