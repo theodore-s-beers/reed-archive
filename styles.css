@@ -44,8 +44,10 @@ sup {
   position: relative;
   top: -0.4em;
 }
-.author {
-  display: none;
+.dateline {
+  font-size: 100%;
+  margin-bottom: 1.33em;
+  margin-top: 1.33em;
 }
 .florette {
   color: var(--florette-color);
@@ -74,6 +76,11 @@ sup {
 .separator {
   display: flex;
   justify-content: center;
+}
+.subtitle-etc {
+  font-size: 117%;
+  margin-bottom: 1em;
+  margin-top: 1em;
 }
 #body-text sup {
   font-family: "Noto Serif", Merriweather, serif;
