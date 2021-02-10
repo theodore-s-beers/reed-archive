@@ -40,10 +40,17 @@ echo "sed round 2 finished" &&
 
 find . -name "index.html" \
 -exec sed -i '' \
-'s/a href="http/a target="_blank" rel="noopener" href="http/g' \
+'s/<hr><ol>/<ol>/' \
 {} \; &&
 
 echo "sed round 3 finished" &&
+
+find . -name "index.html" \
+-exec sed -i '' \
+'s/a href="http/a target="_blank" rel="noopener" href="http/g' \
+{} \; &&
+
+echo "sed round 4 finished" &&
 
 npm run prettify &&
 
