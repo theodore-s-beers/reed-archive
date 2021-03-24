@@ -3,12 +3,12 @@
 fd index.md \
 --exec pandoc {} \
 -f markdown-auto_identifiers \
--H {//}/desc.html \
+-H '{//}'/desc.html \
 -H components/style-links.html \
 -B components/header.html \
 -A components/footer.html \
 -A components/script-link.html \
--o {.}.html &&
+-o '{.}'.html &&
 
 pandoc index-0.md \
 -f markdown-auto_identifiers \
