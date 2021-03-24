@@ -1,16 +1,16 @@
-#! /usr/local/bin/bash
+#! /opt/homebrew/bin/bash
 
-find . -name "index.md" ! -path "./index.md" \
--execdir pandoc index.md \
+fd index.md \
+--exec pandoc {} \
 -f markdown-auto_identifiers \
--H desc.html \
--H ../components/style-links.html \
--B ../components/header.html \
--A ../components/footer.html \
--A ../components/script-link.html \
--o index.html \; &&
+-H {//}/desc.html \
+-H components/style-links.html \
+-B components/header.html \
+-A components/footer.html \
+-A components/script-link.html \
+-o {.}.html &&
 
-pandoc index.md \
+pandoc index-0.md \
 -f markdown-auto_identifiers \
 -H desc.html \
 -H components/style-links-main.html \
@@ -26,31 +26,22 @@ npm install &&
 
 npm run minify &&
 
-find . -name "index.html" \
--exec sed -i '' 's/<style>.*<\/style>//' {} \; &&
+fd index.html --exec sd '<style>.*</style>' '' {}
 
-echo "sed round 1 finished" &&
+echo "sd round 1 finished" &&
 
-find . -name "index.html" \
--exec sed -i '' \
-'s/<p class="auth.*<\/p><\/header>/<\/header>/' \
-{} \; &&
+fd index.html --exec sd '<p class="auth.*</p></header>' '</header>' {} &&
 
-echo "sed round 2 finished" &&
+echo "sd round 2 finished" &&
 
-find . -name "index.html" \
--exec sed -i '' \
-'s/<hr><ol>/<ol>/' \
-{} \; &&
+fd index.html --exec sd '<hr><ol>' '<ol>' {} &&
 
-echo "sed round 3 finished" &&
+echo "sd round 3 finished" &&
 
-find . -name "index.html" \
--exec sed -i '' \
-'s/a href="http/a target="_blank" rel="noopener" href="http/g' \
-{} \; &&
+fd index.html \
+--exec sd 'a href="http' 'a target="_blank" rel="noopener" href="http' {} &&
 
-echo "sed round 4 finished" &&
+echo "sd round 4 finished" &&
 
 npm run prettify &&
 

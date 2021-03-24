@@ -14,9 +14,9 @@
   "author": "Theo Beers",
   "main": "index.html",
   "scripts": {
-    "minify": "find . -name '*.html' ! -path './components/*' ! -path './node_modules/*' -exec html-minifier {} --collapse-whitespace --minify-css true --remove-comments -o {} ';'",
-    "prettify": "find . -name '*.html' ! -path './node_modules/*' -exec prettier --write {} ';'",
-    "standardize": "standard --fix ./switchTheme.js",
+    "minify": "fd -e html -E components/ --exec html-minifier {} --collapse-whitespace --minify-css true --remove-comments -o {}",
+    "prettify": "fd -e html --exec prettier --write {}",
+    "standardize": "standard --fix switchTheme.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
