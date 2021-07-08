@@ -29,7 +29,8 @@ fd index.md \
 	fd index.html --exec sd '<hr><ol>' '<ol>' {} &&
 	echo "sd round 3 finished" &&
 	fd index.html \
-		--exec sd 'a href="http' 'a target="_blank" rel="noopener" href="http' {} &&
+		--exec sd 'a href="http' \
+		'a target="_blank" rel="noopener" href="http' {} &&
 	echo "sd round 4 finished" &&
 	npm run prettify &&
 	npm run standardize
