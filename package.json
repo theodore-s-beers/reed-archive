@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "html-minifier": "^4.0.0",
-    "prettier": "^2.3.2",
+    "prettier": "^2.4.0",
     "standard": "^16.0.3"
   }
 }
