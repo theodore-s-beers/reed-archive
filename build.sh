@@ -36,4 +36,5 @@ sort-package-json &&
 		'a target="_blank" rel="noopener" href="http' {} &&
 	echo "*** sd round 4 finished" &&
 	npm run prettify-html &&
+	npm run lint-css &&
 	npm run standardize-js
