@@ -129,12 +129,9 @@ sup {
 
 .slider {
   background-color: var(--slider-bg-color);
-  bottom: 0;
   cursor: pointer;
-  left: 0;
+  inset: 0;
   position: absolute;
-  right: 0;
-  top: 0;
   transition: 0.4s;
 }
 
