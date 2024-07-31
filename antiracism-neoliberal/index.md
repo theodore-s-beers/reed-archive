@@ -555,6 +555,7 @@ and act accordingly.
     NOLA.\]
 
 [^6]: Smith 2017.
+
 [^7]:
     Reed, Adolph Jr., and Merlin Chowkwanyun, 2012. "Race, Class, Crisis: The
     Discourse of Racial Disparity and Its Analytical Discontents." _Socialist
@@ -562,6 +563,7 @@ and act accordingly.
     [in PDF](https://socialistregister.com/index.php/srv/article/view/15650/12774/).\]
 
 [^8]: _Ibid_., 150--51, 158--9.
+
 [^9]:
     Loveman, Mara, 1999. "Is 'Race' Essential?" _American Sociological Review_
     64: 895--6. Brubaker, Rogers, and Frederick Cooper, 2000. "Beyond
@@ -608,11 +610,13 @@ and act accordingly.
     <https://www.jacobinmag.com/2016/02/sanders-clinton-south-carolina-primary-black-voters-firewall/>.
 
 [^15]: Coates 2017.
+
 [^16]:
     Dudzic, Mark, 2017. "The Origin of the Species." _nonsite_.
     <https://nonsite.org/feature/the-origin-of-the-species>.
 
 [^17]: _Ibid_.
+
 [^18]:
     Warren, Kenneth _et al_., 2016. "On the End(s) of Black Politics."
     _nonsite_. <https://nonsite.org/editorial/on-the-ends-of-black-politics>.
@@ -651,6 +655,7 @@ and act accordingly.
     Analytic History_. Garden City, NY: Doubleday.
 
 [^23]: Rustin 1966, 36.
+
 [^24]:
     Warren, Kenneth W., 2003. _So Black and Blue: Ralph Ellison and the Occasion
     of Criticism_. University of Chicago Press. 27.
@@ -660,7 +665,9 @@ and act accordingly.
     MA: Harvard University Press.
 
 [^26]: Reed and Chowkwanyun 2012, 167.
+
 [^27]: Warren _et al_. 2016.
+
 [^28]:
     Reed, Adolph Jr., 2004. "The Study of Black Politics and the Practice of
     Black Politics: Their Historical Relation and Evolution." In Shapiro, Ian,

@@ -50,12 +50,21 @@ So I'll conclude as I'd initially intended to begin this rumination, with severa
 ## Notes {#notes}
 
 [^1]: Geoffrey Skelley, "Just How Many Obama 2012&nbsp;-- Trump 2016 Voters Were There?" _Sabato's Crystal Ball_, June 1, 2017, <http://www.centerforpolitics.org/crystalball/articles/just-how-many-obama-2012-trump-2016-voters-were-there/>.
+
 [^2]: See, _e.g._, Diana Mutz, "Status threat, not economic hardship, explains the 2016 presidential vote," _PNAS_, April 23, 2018, <https://www.pnas.org/content/pnas/early/2018/04/18/1718155115.full.pdf>; Stephen L. Morgan, "Fake News: Status Threat Does Not Explain the 2016 Presidential Vote," _SocArxiv_, May 11, 2018, <https://osf.io/preprints/socarxiv/7r9fj/>; and Andrew Gelmann, "Does status threat explain the 2016 presidential vote?" <https://andrewgelman.com/2018/05/14/status-threat-explain-2016-presidential-vote/>.
+
 [^3]: Paul Krugman, "Hillary and the Horizontals," _New York Times_, June 10, 2016; and Frances Stewart, "Horizontal Inequalities as a Cause of Conflict," November 2009, <http://web.dmz.brad.ac.uk/social-sciences/media/socialsciences/BDLStewart.pdf>.
+
 [^4]: Touré F. Reed, "Between Obama and Coates," _Catalyst_ 1 (Winter 2018), <https://catalyst-journal.com/vol1/no4/between-obama-and-coates>.
+
 [^5]: Adolph L. Reed, Jr., "Black Politics after 2016," _nonsite_, Feb. 11, 2018, <https://nonsite.org/article/black-politics-after-2016>; "Antiracism: A Neoliberal Alternative to a Left," _Dialectical Anthropology_ 42 (2018): 105--15; and "The Trouble with Uplift," _The Baffler_ 41 (September 2018), <https://thebaffler.com/salvos/the-trouble-with-uplift-reed>.
+
 [^6]: Michelle Alexander, _The New Jim Crow: Mass Incarceration in the Age of Colorblindness_ (New York: New Press, 2012).
+
 [^7]: Reed, Jr., "Antiracism: A Neoliberal Alternative to a Left," 105.
+
 [^8]: Adolph L. Reed, Jr., "The Black-Labor-Left Alliance in the Neoliberal Age," _New Labor Forum_ 25, no. 2 (Spring 2016): 28--34; and "The Post-1965 Trajectory of Race, Class, and Urban Politics in the U.S. Reconsidered," _Labor Studies Journal_ 41, no. 3 (September 2016): 260--91.
+
 [^9]: Reed, Jr., "Black Politics after 2016."
+
 [^10]: Kenneth Stampp, _The Peculiar Institution: Slavery in the Ante-Bellum South_ (New York: Random House, 1956), 5.

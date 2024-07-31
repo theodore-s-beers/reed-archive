@@ -877,6 +877,7 @@ refuses to see the undesirable.[^54]
     1975), 42.
 
 [^11]: _Ibid_., 25.
+
 [^12]:
     Barbara Jones, "Black Family Income: Patterns, Sources and Trends,"
     unpublished paper presented at the annual meetings of the National Economic
@@ -884,6 +885,7 @@ refuses to see the undesirable.[^54]
     September, 1976, p. 2.
 
 [^13]: Bureau of the Census, _Social and Economic Status_, 123, 137.
+
 [^14]:
     That the leadership elite projects its interests over the entire black
     population is neither unique nor necessarily suggestive of insidious
@@ -924,6 +926,7 @@ refuses to see the undesirable.[^54]
     black existence suffer from superficiality.
 
 [^16]: "Crisis of One-Dimensionality," 45--6; "Beyond Critical Theory," 6.
+
 [^17]:
     John Alt observes that, "The problem of legitimating industrial
     reorganization was solved through a new social practice and ideology
@@ -1118,6 +1121,7 @@ refuses to see the undesirable.[^54]
     class." _Revolutionary Notes_ (New York, 1969), 106.
 
 [^35]: Harold Cruse, _Crisis_, 544--65.
+
 [^36]:
     Jennifer Jordan notes this "nostalgic" character of 1960s culturalism and
     its grounding in the black elite in an essay, "Cultural Nationalism in the
