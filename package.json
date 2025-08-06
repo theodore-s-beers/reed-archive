@@ -15,14 +15,14 @@
   "main": "index.html",
   "scripts": {
     "lint-css": "stylelint --fix styles.css",
-    "minify-html": "fd index.html -x html-minifier {} --collapse-whitespace --minify-css true --remove-comments -o {}",
+    "minify-html": "fd index.html -x html-minifier-next {} --collapse-whitespace --minify-css true --remove-comments -o {}",
     "prettify-all": "prettier --write .",
     "prettify-html": "fd index.html -x prettier --write {}",
     "standardize-js": "standard --fix switchTheme.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "html-minifier": "^4.0.0",
+    "html-minifier-next": "^1.1.5",
     "prettier": "^3.6.2",
     "standard": "^17.1.2",
     "stylelint": "^16.23.0",
