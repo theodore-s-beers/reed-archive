@@ -6,7 +6,7 @@ sort-package-json &&
 	pnpm i &&
 	fd index.html -x rm {} &&
 	echo "*** Cleared old generated HTML" &&
-	dum prettify-all &&
+	pnpm run format &&
 	fd index.md \
 		--exec pandoc {} \
 		-f markdown-auto_identifiers \
@@ -24,7 +24,7 @@ sort-package-json &&
 		-A components/script-link-main.html \
 		-o index.html &&
 	echo "*** Pandoc finished" &&
-	dum minify-html &&
+	pnpm run minify-html &&
 	fd index.html --exec sd '<style>.*</style>' '' {} &&
 	echo "*** sd round 1 finished" &&
 	fd index.html --exec sd '<p class="auth.*</p></header>' '</header>' {} &&
@@ -35,6 +35,6 @@ sort-package-json &&
 		--exec sd 'a href="http' \
 		'a target="_blank" rel="noopener" href="http' {} &&
 	echo "*** sd round 4 finished" &&
-	dum prettify-html &&
-	dum lint-css &&
-	dum standardize-js
+	pnpm run format-html &&
+	pnpm run lint-css &&
+	pnpm run lint

@@ -1,31 +1,32 @@
 {
   "name": "reed-archive",
   "version": "0.1.0",
-  "description": "See <https://www.theobeers.com/reed-archive/>.",
+  "private": true,
+  "description": "See <https://www.theobeers.com/reed-archive/>",
   "homepage": "https://github.com/theodore-s-beers/reed-archive#readme",
   "bugs": {
     "url": "https://github.com/theodore-s-beers/reed-archive/issues"
   },
+  "license": "MIT",
+  "author": "Theo Beers",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/theodore-s-beers/reed-archive.git"
   },
-  "license": "MIT",
-  "author": "Theo Beers",
   "main": "index.html",
   "scripts": {
+    "format": "oxfmt",
+    "format-html": "oxfmt '**/index.html'",
+    "lint": "oxfmt --check && oxlint",
     "lint-css": "stylelint --fix styles.css",
     "minify-html": "fd index.html -x html-minifier-next {} --collapse-whitespace --minify-css true --remove-comments -o {}",
-    "prettify-all": "prettier --write .",
-    "prettify-html": "fd index.html -x prettier --write {}",
-    "standardize-js": "standard --fix switchTheme.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "html-minifier-next": "^1.1.5",
-    "prettier": "^3.6.2",
-    "standard": "^17.1.2",
-    "stylelint": "^16.23.0",
-    "stylelint-config-standard": "^39.0.0"
+    "html-minifier-next": "^5.2.1",
+    "oxfmt": "^0.41.0",
+    "oxlint": "^1.56.0",
+    "stylelint": "^17.5.0",
+    "stylelint-config-standard": "^40.0.0"
   }
 }
