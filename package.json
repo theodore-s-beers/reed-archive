@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "html-minifier-next": "^5.2.1",
-    "oxfmt": "^0.41.0",
+    "oxfmt": "^0.47.0",
     "oxlint": "^1.56.0",
     "stylelint": "^17.5.0",
     "stylelint-config-standard": "^40.0.0"
