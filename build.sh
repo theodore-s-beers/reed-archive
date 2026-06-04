@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-set -Eeuo pipefail
+set -euo pipefail
 
 sort-package-json &&
 	pnpm i &&
