@@ -2,6 +2,8 @@
 version: 2
 updates:
   - package-ecosystem: "npm"
-    directory: "/" # Location of package manifest
+    directory: "/"
     schedule:
       interval: "monthly"
+    cooldown:
+      default-days: 7
