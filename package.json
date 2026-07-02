@@ -20,13 +20,13 @@
     "lint": "oxfmt --check && oxlint",
     "lint-css": "stylelint --fix styles.css",
     "minify-html": "fd index.html -x html-minifier-next {} --collapse-whitespace --minify-css true --remove-comments -o {}",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'Error: no test specified' && exit 1"
   },
   "devDependencies": {
-    "html-minifier-next": "^6.2.8",
-    "oxfmt": "^0.53.0",
-    "oxlint": "^1.68.0",
-    "stylelint": "^17.12.0",
+    "html-minifier-next": "^7.0.0",
+    "oxfmt": "^0.57.0",
+    "oxlint": "^1.72.0",
+    "stylelint": "^17.14.0",
     "stylelint-config-standard": "^40.0.0"
   }
 }
