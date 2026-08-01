@@ -26,7 +26,7 @@
     "html-minifier-next": "^7.0.0",
     "oxfmt": "^0.57.0",
     "oxlint": "^1.72.0",
-    "stylelint": "^17.14.0",
+    "stylelint": "^17.14.1",
     "stylelint-config-standard": "^40.0.0"
   }
 }
