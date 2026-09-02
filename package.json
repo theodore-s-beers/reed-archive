@@ -23,9 +23,9 @@
     "test": "echo 'Error: no test specified' && exit 1"
   },
   "devDependencies": {
-    "html-minifier-next": "^7.5.2",
-    "oxfmt": "^0.61.0",
-    "oxlint": "^1.76.0",
+    "html-minifier-next": "^8.3.1",
+    "oxfmt": "^0.65.0",
+    "oxlint": "^1.80.0",
     "stylelint": "^17.14.1",
     "stylelint-config-standard": "^40.0.0"
   }
