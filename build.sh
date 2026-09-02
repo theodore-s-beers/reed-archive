@@ -4,7 +4,7 @@ set -euo pipefail
 
 sort-package-json
 pnpm i
-fd index.html -x rm {}
+fd index.html --exec rm {}
 echo '*** Cleared old generated HTML'
 pnpm run format
 fd index.md \
