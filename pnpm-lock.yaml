@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       html-minifier-next:
-        specifier: ^8.3.1
-        version: 8.3.1
+        specifier: ^8.5.3
+        version: 8.5.3
       oxfmt:
         specifier: ^0.65.0
         version: 0.65.0
@@ -504,8 +504,8 @@ packages:
     resolution: {integrity: sha512-V0hjH4dGPh9Ao5p0MoRY6BVqtwCjhz6vI5LT8AJ55H+4g9/4vbHx1I54fS0XuclLhDHArPQCiMjDxjaL8fPxhw==}
     engines: {node: '>=0.12'}
 
-  entities@8.0.0:
-    resolution: {integrity: sha512-zwfzJecQ/Uej6tusMqwAqU/6KL2XaB2VZ2Jg54Je6ahNBGNH6Ek6g3jjNCF0fG9EWQKGZNddNjU5F1ZQn/sBnA==}
+  entities@8.1.0:
+    resolution: {integrity: sha512-kxL7msIffSuh9aaFAMD7rxAIuTRMAHMeBtgHW2yUdWw732ZNh4MehkF2gdjvtdmikkaIP9bFDDJOPlsvm7avrA==}
     engines: {node: '>=20.19.0'}
 
   env-paths@2.2.1:
@@ -582,8 +582,8 @@ packages:
   hookified@2.2.0:
     resolution: {integrity: sha512-p/LgFzRN5FeoD3DLS6bkUapeye6E4SI6yJs6KetENd18S+FBthqYq2amJUWpt5z0EQwwHemidjY5OqJGEKm5uA==}
 
-  html-minifier-next@8.3.1:
-    resolution: {integrity: sha512-yO45aGBkNWzOzKSEBsFFM8t9bM0F8U3z27wg1IDnEhk2Zm27CAxwNQ97oR9atwFr2V4HKqdmr0KSyYWYkETbhw==}
+  html-minifier-next@8.5.3:
+    resolution: {integrity: sha512-KCpMJENWMEhujHHn4cWnOTzGQCXGrsA2rTIxNyDZuca9uWonBiqW2b55NissJy59CtQLzMm+Pww3XLlW9hOLCQ==}
     engines: {node: '>=22.13'}
     hasBin: true
     peerDependencies:
@@ -1283,7 +1283,7 @@ snapshots:
 
   entities@4.5.0: {}
 
-  entities@8.0.0: {}
+  entities@8.1.0: {}
 
   env-paths@2.2.1: {}
 
@@ -1363,10 +1363,10 @@ snapshots:
 
   hookified@2.2.0: {}
 
-  html-minifier-next@8.3.1:
+  html-minifier-next@8.5.3:
     dependencies:
       commander: 15.0.0
-      entities: 8.0.0
+      entities: 8.1.0
       lightningcss: 1.33.0
       svgo: 4.1.0
       terser: 5.51.2
