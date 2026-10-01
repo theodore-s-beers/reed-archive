@@ -18,11 +18,11 @@ importers:
         specifier: ^1.80.0
         version: 1.80.0
       stylelint:
-        specifier: ^17.14.1
-        version: 17.14.1(supports-color@10.2.2)
+        specifier: ^17.15.0
+        version: 17.15.0(supports-color@10.2.2)
       stylelint-config-standard:
         specifier: ^40.0.0
-        version: 40.0.0(stylelint@17.14.1(supports-color@10.2.2))
+        version: 40.0.0(stylelint@17.15.0(supports-color@10.2.2))
 
 packages:
 
@@ -907,8 +907,8 @@ packages:
     peerDependencies:
       stylelint: ^17.0.0
 
-  stylelint@17.14.1:
-    resolution: {integrity: sha512-xVQwyiuxALUBNB2fBe0tmNemg9KqLtdj3T64mioFDar79B2cU8LIyz+3KL6LdiHs9NkeNfwxpKSaIVOY8f112g==}
+  stylelint@17.15.0:
+    resolution: {integrity: sha512-mWIkesYQvQjf4Kvdeu9ns0IL8/K/wtjaGxPqsPd6DlLZvaQxGysJsocxUDrBcyHQ5VleAk4uSMat4yMrVED7PA==}
     engines: {node: '>=20.19.0'}
     hasBin: true
 
@@ -1628,16 +1628,16 @@ snapshots:
     dependencies:
       ansi-regex: 6.3.0
 
-  stylelint-config-recommended@18.0.0(stylelint@17.14.1(supports-color@10.2.2)):
+  stylelint-config-recommended@18.0.0(stylelint@17.15.0(supports-color@10.2.2)):
     dependencies:
-      stylelint: 17.14.1(supports-color@10.2.2)
+      stylelint: 17.15.0(supports-color@10.2.2)
 
-  stylelint-config-standard@40.0.0(stylelint@17.14.1(supports-color@10.2.2)):
+  stylelint-config-standard@40.0.0(stylelint@17.15.0(supports-color@10.2.2)):
     dependencies:
-      stylelint: 17.14.1(supports-color@10.2.2)
-      stylelint-config-recommended: 18.0.0(stylelint@17.14.1(supports-color@10.2.2))
+      stylelint: 17.15.0(supports-color@10.2.2)
+      stylelint-config-recommended: 18.0.0(stylelint@17.15.0(supports-color@10.2.2))
 
-  stylelint@17.14.1(supports-color@10.2.2):
+  stylelint@17.15.0(supports-color@10.2.2):
     dependencies:
       '@csstools/css-calc': 3.3.0(@csstools/css-parser-algorithms@4.0.0(@csstools/css-tokenizer@4.0.0))(@csstools/css-tokenizer@4.0.0)
       '@csstools/css-parser-algorithms': 4.0.0(@csstools/css-tokenizer@4.0.0)
